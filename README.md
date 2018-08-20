@@ -2,6 +2,8 @@
 
 You can use Webpack to include and bundle UIkit's JavaScript in your project.
 
+- [UIkit Documentation: Webpack](https://getuikit.com/docs/webpack)
+
 ***
 
 ## File structure
